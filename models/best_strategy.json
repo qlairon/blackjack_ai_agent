@@ -1,0 +1,22 @@
+{
+  "description": "Rows are player totals; each character is the action against dealer upcards 2,3,4,5,6,7,8,9,10,A (H = hit, S = stand).",
+  "strategy": {
+    "4": "SSSHHHHHHS",
+    "5": "SHSHSHSSHH",
+    "6": "HSSHHSHHHS",
+    "7": "SHSSSSHSHH",
+    "8": "HHHHSSHHHS",
+    "9": "HSHSSHHSHH",
+    "10": "HHSHHHHHHH",
+    "11": "SHHHSHHHHH",
+    "12": "HHSHSHHSSH",
+    "13": "SHHSSHSHHH",
+    "14": "HSSSSHHHHH",
+    "15": "SHHSHHHHSS",
+    "16": "HHSHHSHSHH",
+    "17": "SSSSSSSSSS",
+    "18": "SSSSSSSSSS",
+    "19": "SSSSSSSSSS",
+    "20": "SSSSSSSSSS"
+  }
+}
